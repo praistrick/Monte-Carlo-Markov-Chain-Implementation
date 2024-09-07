@@ -4,4 +4,4 @@ With the countless breakthroughs and increased interest in machine learning and 
 
 ## Metropolis-Hastings Algorithm
 
-The Metropolis-Hastings Algorithm is arguably one of the most popular MCMC algorithms due to its simplicity, uniqueness, and effectiveness. It involves constructing a markov chain, using a function that is proportional to the target distribution
+The Metropolis-Hastings Algorithm is arguably one of the most popular MCMC algorithms due to its simplicity, uniqueness, and effectiveness. It involves constructing a markov chain, using a function that is proportional to the target distribution to determine 
